@@ -1,4 +1,4 @@
-# Welcome! 😊 This is Angela!
+# Welcome! 😊
 
 💬 - B.S. Student Studying Computer Science @ UC Berkeley. 
 
