@@ -7,7 +7,7 @@
 🔭 - Look through my profile and see my journey! 
   
 ## Github Profile:
-[![Profile Details](https://raw.githubusercontent.com/angela-rodriguezz/angela-rodriguezzz/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angela-rodriguezz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Github Stats:
 
