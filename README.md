@@ -8,7 +8,7 @@
   
 ## Github Profile:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angela-rodriguezz&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela-rodriguezz&layout=compact&card_width=480&title_color=fefefe&text_color=fefefe&bg_color=000000)](https://github.com/angela-rodriguezz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela-rodriguezz&layout=compact&card_width=495&title_color=fefefe&text_color=fefefe&bg_color=000000)](https://github.com/angela-rodriguezz/github-readme-stats)
 
 
 
