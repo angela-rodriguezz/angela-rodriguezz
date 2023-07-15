@@ -1,6 +1,6 @@
 # Welcome! 😊
 
-💬 - B.S. Student Studying Computer Science @ UC Berkeley. 
+💬 - B.S. Student Studying Computer Science @ University of California, Berkeley. 
 
 🎮 - I'm currently developing a new indie game on Unity.
 
