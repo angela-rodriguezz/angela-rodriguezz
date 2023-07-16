@@ -19,8 +19,8 @@
 
 </td>
   
-  <td width="50%" valign="top">
-  <img align="right" src="./images/work2.svg" />
+  <td width="50%" valign="center">
+  <img align="right" src="./image_processing20200417-15968-1nofwc1.gif" />
   </td>
   </tr>
 </table>
