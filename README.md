@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/angelarodriguezzz//"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:angelamareyrodriguez@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://angelarodriguez200.wixsite.com/portfolio"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
   </a>
   </p>
@@ -24,7 +25,7 @@
 
 </td>
   <td width="50%" valign="center">
-  <img align="right" src="./GIF.gif" />
+  <img align="right" height="300" width="500" src="./GIF.gif" />
   </td>
   </tr>
 </table>
@@ -45,6 +46,21 @@
     <img src="https://raw.githubusercontent.com/angela-rodriguezz/angela-rodriguezz/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" alt="Angela Stats2">
 </p>
 </details>
+
+## Skills
+
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</p>
 
 
 
