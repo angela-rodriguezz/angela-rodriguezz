@@ -5,7 +5,7 @@
 <p align="center"> - A game programmer specializing in Unity and always exploring new ideas. - </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/angelarodriguezzz"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png">
+  <a href="https://www.linkedin.com/in/angelarodriguezzz//"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png">
   </a>
   
   </p>
