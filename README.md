@@ -25,7 +25,7 @@
 
 </td>
   <td width="50%" valign="center">
-  <img align="right" height="300" weight="500" src="./GIF.gif" />
+  <img align="right" src="./GIF.gif" />
   </td>
   </tr>
 </table>
