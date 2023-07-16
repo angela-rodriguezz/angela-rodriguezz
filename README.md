@@ -1,14 +1,15 @@
 # Welcome! 😊
 
-<h3 align="center"> Undergraduate Student pursuing a degree in Computer Science @ University of California, Berkeley.  </h3>
+<h3 align="center"> Undergraduate Student pursuing a degree in Computer Science @ University of California, Berkeley. </h3>
 
 <p align="center"> - A game programmer specializing in Unity and always exploring new ideas. - </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angelarodriguezzz//"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png">
+  <a href="https://www.linkedin.com/in/angelarodriguezzz//"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="angelamareyrodriguez@gmail.com"><img height="20" src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png">
+  <a href="mailto:angelamareyrodriguez@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://angelarodriguez200.wixsite.com/portfolio"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
   </p>
 <br />
 
