@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/angelarodriguezzz//"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png">
   </a>
-  
+  <a href="angelamareyrodriguez@gmail.com"><img height="20" src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png">
+  </a>
   </p>
 <br />
 
