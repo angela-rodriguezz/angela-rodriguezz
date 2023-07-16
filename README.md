@@ -19,8 +19,8 @@
 
 </td>
   
-  <td width="50%" valign="bottom">
-  <img align="right" src="./ezgif.com-gif-maker.gif" />
+  <td width="50%" valign="center">
+  <img align="right" src="./githubgif.gif" />
   </td>
   </tr>
 </table>
