@@ -29,10 +29,9 @@
 
 ## Github Stats?
 <details open>
-  <font size=+10>
   <summary>Look here!</summary>
   
-  </font>
+ <br /> 
 <p align="center">
     <img src="https://raw.githubusercontent.com/angela-rodriguezz/angela-rodriguezz/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" alt="Angela's badge"/>
   </p>
