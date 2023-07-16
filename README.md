@@ -20,7 +20,7 @@
 </td>
   
   <td width="50%" valign="center">
-  <img align="right" src="./githubgif.gif" />
+  <img align="right" src="./GIF.gif" />
   </td>
   </tr>
 </table>
