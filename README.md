@@ -1,11 +1,15 @@
 # Welcome! 😊
 
-💬 - B.S. Student Studying Computer Science @ University of California, Berkeley. 
+<h3 align="center"> Undergraduate Student pursuing a degree in Computer Science @ University of California, Berkeley.  </h3>
 
-🎮 - I'm currently developing a new indie game on Unity.
+<p align="center"> - A game programmer specializing in Unity and always exploring new ideas. - </p>
 
-🔭 - Look through my profile and see my journey! 
-
+<p align="center">
+  <a href="www.linkedin.com/in/angelarodriguezzz"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png">
+  </a>
+  <a href="angelamareyrodriguez@gmail.com"><img height="20" src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png">
+  </a>
+  </p>
 <br />
 
 <table style="border: none">
@@ -28,7 +32,7 @@
 
 
 ## Github Stats?
-<details open>
+<details closed>
   <summary>Look here!</summary>
   
  <br /> 
