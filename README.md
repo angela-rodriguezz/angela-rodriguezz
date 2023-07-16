@@ -35,7 +35,7 @@
 
 ## Github Stats?
 <details closed>
-  <summary>Look here!</summary>
+  <summary>👉 Look here!</summary>
   
  <br /> 
 <p align="center">
