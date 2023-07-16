@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/angelarodriguezzz//"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:angelamareyrodriguez@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://angelarodriguez200.wixsite.com/portfolio"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
+  </a>
   </p>
 <br />
 
@@ -45,6 +45,7 @@
     <img src="https://raw.githubusercontent.com/angela-rodriguezz/angela-rodriguezz/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" alt="Angela Stats2">
 </p>
 </details>
+
 
 
 
