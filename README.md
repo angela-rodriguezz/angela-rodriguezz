@@ -1,4 +1,4 @@
-# Welcome! 😊
+<h1 align="center"> Welcome! 😊 </h1>
 
 <h3 align="center"> Undergraduate Student pursuing a degree in Computer Science @ University of California, Berkeley. </h3>
 
