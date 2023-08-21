@@ -11,6 +11,7 @@
   </a>
   <a href="https://angelarodriguez200.wixsite.com/portfolio"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
   </a>
+  <a href="https://itch.io/dashboard"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
   </p>
 <br />
 
