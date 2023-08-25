@@ -5,13 +5,13 @@
 <p align="center"> - A game programmer specializing in Unity and always exploring new ideas. - </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angelarodriguezz//"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/angelarodriguezz//" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:angelamareyrodriguez@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:angelamareyrodriguez@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://angelarodriguez200.wixsite.com/portfolio"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
+  <a href="https://angelarodriguez200.wixsite.com/portfolio" target="_blank"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
   </a>
-  <a href="https://angelarodriguezz.itch.io/"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  <a href="https://angelarodriguezz.itch.io/" target="_blank"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
   </a>
   </p>
 <br />
