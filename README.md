@@ -9,7 +9,7 @@
   </a>
   <a href="mailto:angelamareyrodriguez@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://angelarodriguez200.wixsite.com/portfolio" target="_blank"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
+  <a href="http://www.angelarodriguezz.me/" target="_blank"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
   </a>
   <a href="https://angelarodriguezz.itch.io/" target="_blank"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
   </a>
