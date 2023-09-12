@@ -22,7 +22,7 @@
     
 ## Github Profile:
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=angela-rodriguezz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=angela-rodriguezz&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela-rodriguezz&layout=compact&card_width=495&title_color=fefefe&text_color=fefefe&bg_color=000000)](https://github.com/angela-rodriguezz/github-readme-stats)
 
 </td>
