@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/angela-rodriguezz/angela-rodriguezz/master/profile-summary-card-output/nord_bright/4-productive-time.svg)
-```
-
-    
