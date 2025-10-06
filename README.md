@@ -11,7 +11,7 @@
   </a>
   <a href="https://angelarodriguezz.itch.io/" target="_blank"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
   </a>
-  <a href="http://www.angelarodriguezz.me/" target="_blank"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
+  <a href="http://www.angelarodriguezzz.me/" target="_blank"><img height="30" src="https://img.shields.io/badge/portfolio-e0d177?style=for-the-badge&logo=About.me&logoColor=brown">
   </a>
   </p>
 <br />
